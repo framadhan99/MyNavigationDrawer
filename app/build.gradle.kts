@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.fajar.mynavigationdrawer"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.fajar.mynavigationdrawer"
